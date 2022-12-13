@@ -370,6 +370,12 @@ h6 {
   .myaccount {
     display: none;
   }
+  .align-center {
+    text-align: center;
+  }
+  .nav-bottom a {
+    font-size: 13px;
+  }
 }
 @media only screen and (max-width: 568px) {
   .btn-search {
