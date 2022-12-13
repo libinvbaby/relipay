@@ -314,7 +314,7 @@ h6 {
 }
 @media only screen and (max-width: 768px) {
   .navsec {
-    height: 200vh;
+    height: 154vh;
   }
   .small-padding {
     padding: 5px 0px;
